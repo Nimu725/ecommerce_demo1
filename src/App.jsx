@@ -14,7 +14,7 @@ function App() {
   return (
     <div>
       <Header />
-      <ProductTemplate/>
+      <Content/>
      
       <Footer />
     </div>
