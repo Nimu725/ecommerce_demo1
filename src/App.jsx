@@ -7,13 +7,14 @@ import Content from './components/Content.jsx'
 import Footer from './components/Footer.jsx'
 
 import Sample1 from './components/Sample1.jsx'
+import ProductTemplate from './components/ProductTemplate.jsx'
 
 function App() {
 
   return (
     <div>
       <Header />
-      <Sample1/>
+      <ProductTemplate/>
      
       <Footer />
     </div>
